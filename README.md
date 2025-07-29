@@ -1,7 +1,7 @@
-# Rodriguez Elopre  
-**Freelance Full-Stack Developer | Data Scientist**  
-[LinkedIn](#) | [GitHub](https://github.com/r-elopre) | [Email](mailto:rodriguez@example.com) | [Phone](tel:+1234567890)  
-Seattle, WA  
+# Ri M. Elopre  
+**Freelance Full-Stack Developer (Django) | Data Scientist**  
+[LinkedIn](#) | [GitHub](https://github.com/r-elopre) | [Email](mailto:elopreri528@gmail.com) | [Phone](mob:+639952013913)  
+Rodriguez, Rizal  
 
 ---
 
@@ -81,4 +81,4 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
 ---
 
 ## Contact  
-For inquiries, please reach out via [email](mailto:rodriguez@example.com) or [LinkedIn](#).
+For inquiries, please reach out via [email](mailto:elopreri528@gmail.com).
