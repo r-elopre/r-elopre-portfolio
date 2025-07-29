@@ -64,7 +64,7 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
 ---
 
 ## Education  
-**Self-Taught Developer & Data Scientist**  
+**Self-Taught Developer & Data Scientist & Computer Science Student**  
 - Completed online courses in Python, Django, JavaScript, and Data Science (Coursera, Udemy).  
 - Built real-world projects to apply skills in web development and data preprocessing.  
 
@@ -81,4 +81,4 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
 ---
 
 ## Contact  
-For inquiries, please reach out via [email](mailto:elopreri528@gmail.com).
+For inquiries, please reach out via [email](mailto:elopreri528@gmail.com). elopreri528@gmail.com
