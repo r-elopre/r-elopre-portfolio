@@ -1,6 +1,6 @@
 # Ri M. Elopre  
 **Freelance Full-Stack Developer (Django) | Data Scientist**  
-[GitHub](https://github.com/r-elopre) | [Email](mailto:elopreri528@gmail.com) | [Phone](tel:+639952013913) +639952013913
+[GitHub](https://github.com/r-elopre) | [Email](mailto:elopreri528@gmail.com) | [Phone](tel:+639952013913) +639952013913 |
 Rodriguez, Rizal  
 
 ---
@@ -24,14 +24,14 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
       📹 [Watch Test](https://youtu.be/GBs8rEWTVQ8?si=w12NQJJ4kikWT2CO)  
   - **Performance Tests Passed**:  
     - ✅ **Client-Side Media Optimization**: Reduced image file sizes by up to 80% using Compressor.js, enhancing upload speed and performance.  
-      📹 [Watch Test](https://youtu.be/i76l_xrsrJQ?si=hcjQ9Au6A0vni_CT)  
     - ✅ **Caching Strategy**: Utilized Django’s caching framework for posts, comments, and user data to reduce load times.  
       📹 [Watch Test](https://youtu.be/DV2VaTyp-XY?si=Yh0rFk50WXSFENsR)  
     - ✅ **Efficient Database Queries**: Eliminated N+1 issues with batch fetching, implemented offset-based pagination, and used selective field fetching to optimize performance.  
       📹 [Watch Test](https://youtu.be/-luhtWYskP8?si=HOieIin6wZVyuEQ4)  
     - ✅ **Non-Blocking JavaScript Architecture**: Employed modular, deferred scripts (`chat.js`, `post.js`), lazy execution, and efficient polling for minimal resource usage.  
       📹 [Watch Test](https://youtu.be/ZsFa0-ix1vs?si=C-a4Z2dvTMSu3Av-)  
-  - **GitHub**: [chatGF](https://github.com/r-elopre/chatGF)  
+    - **GitHub**: [chatGF](https://github.com/r-elopre/chatGF)  
+    - **Additional Details**: [Social Media Explanation](https://docs.google.com/document/d/1k1aAXfTE2I7JELJDP0ywRUAfVlsU6Guk2VFa7cES3gY/edit?tab=t.0)
 
 ### Data Scientist  
 **Self-Employed / Personal Projects** — *April 2022 – Present*  
