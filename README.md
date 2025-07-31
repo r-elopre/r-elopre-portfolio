@@ -42,15 +42,10 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
     - Generated EDA visualizations (histograms, bar plots, correlation heatmaps) to uncover survival patterns.  
     - **Output**: `train_scaled.csv` with encoded categorical variables and standardized numeric features, ready for modeling.  
     - **GitHub**: [Titanic Data Cleaning](https://github.com/r-elopre/titanic-data-cleaning)
-    ## 🛠️ Titanic Data Cleaning & Modeling
 
-- Built a Python pipeline (`diagnose.py`, `clean.py`, `EDA.py`, `process_data.py`, `encode_data.py`, `scale_data.py`) to clean and preprocess the Titanic dataset (891 rows, 12 columns).  
-- Handled missing values, encoded categorical features, scaled numerical features, and generated EDA visualizations.  
-- Output: `train_scaled.csv`, ready for machine learning.
-
-  ### 🔹 Models Trained on Cleaned Data:
-  1. [Logistic Regression Model](https://github.com/r-elopre/Titanic-Logistic-Regression-Model) — baseline binary classification to predict survival.
-    
+    ### 🔹 Models Trained on Cleaned Data:
+    1. [Logistic Regression Model](https://github.com/r-elopre/Titanic-Logistic-Regression-Model) — baseline binary classification to predict survival.
+      
   - **Healthcare Data Cleaning Pipeline**:  
     - Preprocessed a dataset (1000 rows, 10 columns) with 159–384 missing values per column.  
     - Handled missing values (`Age` with median, `Condition` with "Unknown", `Cholesterol` with mean), standardized date formats, and split `Blood Pressure` into Systolic/Diastolic.  
