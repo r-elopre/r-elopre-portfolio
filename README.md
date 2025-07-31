@@ -45,7 +45,8 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
 
     ### 🔹 Models Trained on Cleaned Data:
     1. [Logistic Regression Model](https://github.com/r-elopre/Titanic-Logistic-Regression-Model) — baseline binary classification to predict survival.
-      
+    &nbsp;  
+    &nbsp;  
   - **Healthcare Data Cleaning Pipeline**:  
     - Preprocessed a dataset (1000 rows, 10 columns) with 159–384 missing values per column.  
     - Handled missing values (`Age` with median, `Condition` with "Unknown", `Cholesterol` with mean), standardized date formats, and split `Blood Pressure` into Systolic/Diastolic.  
