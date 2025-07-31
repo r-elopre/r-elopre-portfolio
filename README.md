@@ -41,7 +41,16 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
     - Handled missing values (`Age`, `Embarked`, `Cabin`), standardized categorical data, and scaled numeric features using `StandardScaler`.  
     - Generated EDA visualizations (histograms, bar plots, correlation heatmaps) to uncover survival patterns.  
     - **Output**: `train_scaled.csv` with encoded categorical variables and standardized numeric features, ready for modeling.  
-    - **GitHub**: [Titanic Data Cleaning](https://github.com/r-elopre/titanic-data-cleaning)  
+    - **GitHub**: [Titanic Data Cleaning](https://github.com/r-elopre/titanic-data-cleaning)
+    ## 🛠️ Titanic Data Cleaning & Modeling
+
+- Built a Python pipeline (`diagnose.py`, `clean.py`, `EDA.py`, `process_data.py`, `encode_data.py`, `scale_data.py`) to clean and preprocess the Titanic dataset (891 rows, 12 columns).  
+- Handled missing values, encoded categorical features, scaled numerical features, and generated EDA visualizations.  
+- Output: `train_scaled.csv`, ready for machine learning.
+
+  ### 🔹 Models Trained on Cleaned Data:
+  1. [Logistic Regression Model](https://github.com/r-elopre/Titanic-Logistic-Regression-Model) — baseline binary classification to predict survival.
+    
   - **Healthcare Data Cleaning Pipeline**:  
     - Preprocessed a dataset (1000 rows, 10 columns) with 159–384 missing values per column.  
     - Handled missing values (`Age` with median, `Condition` with "Unknown", `Cholesterol` with mean), standardized date formats, and split `Blood Pressure` into Systolic/Diastolic.  
@@ -49,6 +58,15 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
     - Applied one-hot encoding to categorical features (`Gender`, `Medication`) and scaled numeric features for ML compatibility.  
     - **Output**: `healthcare_scaled.csv`, fully numeric and scaled for modeling.  
     - **GitHub**: [Healthcare Data Cleaning](https://github.com/r-elopre/healthcare-data-cleaning)  
+
+### Machine Learning Engineer  
+**Self-Employed / Personal Projects** — *April 2022 – Present*  
+- Developed and evaluated a **Titanic Logistic Regression Model** to predict passenger survival using the preprocessed `train_scaled.csv` dataset (891 rows, 18 columns).  
+  - Implemented a Python script (`titanic_model_logreg.py`) to load data, perform train-test split (80% train, 20% test), train a logistic regression model, and evaluate performance.  
+  - Achieved ~82% accuracy, with precision (83% for Not Survived, 80% for Survived), recall (87% for Not Survived, 76% for Survived), and F1-scores (85% for Not Survived, 78% for Survived).  
+  - Generated a confusion matrix heatmap (`confusion_matrix.png`) using Seaborn to visualize true/false positives and negatives.  
+  - Saved test predictions with `PassengerId` to `titanic_logreg_predictions.csv` for further analysis.  
+  - **GitHub**: [Titanic Logistic Regression Model](https://github.com/r-elopre/Titanic-Logistic-Regression-Model)  
 
 ---
 
@@ -58,6 +76,7 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
 - **Tools**: Git, GitHub, Jupyter Notebook, VS Code  
 - **Web Development**: Full-stack development, RESTful APIs, real-time messaging, responsive design  
 - **Data Science**: Data cleaning, preprocessing, EDA, feature engineering, categorical encoding, feature scaling  
+- **Machine Learning**: Logistic regression, model training, evaluation metrics, confusion matrix visualization  
 - **Security**: XSS prevention, CSRF protection, secure authentication, session management  
 - **Performance Optimization**: Caching, efficient database queries, non-blocking JavaScript, media compression  
 
@@ -66,7 +85,7 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
 ## Education  
 **Self-Taught Developer & Data Scientist & Computer Science Student**  
 - Completed online courses in Python, Django, JavaScript, and Data Science (Coursera, Udemy).  
-- Built real-world projects to apply skills in web development and data preprocessing.  
+- Built real-world projects to apply skills in web development, data preprocessing, and machine learning.  
 
 ---
 
@@ -75,6 +94,8 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
   A secure, high-performance, full-stack web app with real-time messaging, post creation, and user interaction features, rigorously tested for security and performance.  
 - **Titanic Data Cleaning Pipeline** ([GitHub](https://github.com/r-elopre/titanic-data-cleaning)):  
   A modular Python pipeline for cleaning and preprocessing the Titanic dataset, producing a machine-learning-ready dataset with visualizations.  
+- **Titanic Logistic Regression Model** ([GitHub](https://github.com/r-elopre/Titanic-Logistic-Regression-Model)):  
+  A project that trains a logistic regression model to predict passenger survival on the Titanic using the preprocessed `train_scaled.csv` dataset. Achieved ~82% accuracy, with evaluation metrics and a confusion matrix heatmap saved as `confusion_matrix.png`. Predictions were saved to `titanic_logreg_predictions.csv`.  
 - **Healthcare Data Cleaning Pipeline** ([GitHub](https://github.com/r-elopre/healthcare-data-cleaning)):  
   A robust pipeline for cleaning and preprocessing healthcare data, addressing missing values, inconsistencies, and preparing data for ML.  
 
