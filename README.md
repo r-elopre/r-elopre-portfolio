@@ -39,11 +39,7 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
 - Designed and implemented comprehensive data preprocessing pipelines for the **Titanic** and **Healthcare** datasets, transforming raw data into machine-learning-ready formats.  
   - **Titanic Data Cleaning Pipeline**:    
     - **Output**: `train_scaled.csv` with encoded categorical variables and standardized numeric features, ready for modeling.  
-    - **GitHub**: [Titanic Data Cleaning](https://github.com/r-elopre/titanic-data-cleaning)
-
-    ### 🔹 Models Trained on Cleaned Data:
-    1. [Logistic Regression Model](https://github.com/r-elopre/Titanic-Logistic-Regression-Model) — baseline binary classification to predict survival.
-     2. [Random Forest Classifier Model](https://github.com/r-elopre/titanic_model_randomforest) — ensemble model to predict survival, leveraging multiple decision trees for improved accuracy and robustness.  
+    - **GitHub**: [Titanic Data Cleaning](https://github.com/r-elopre/titanic-data-cleaning) 
     &nbsp;  
   - **Healthcare Data Cleaning Pipeline**:   
     - **Output**: `healthcare_scaled.csv`, fully numeric and scaled for modeling.  
