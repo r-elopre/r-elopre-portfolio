@@ -37,34 +37,27 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
 ### Data Scientist  
 **Self-Employed / Personal Projects** — *April 2022 – Present*  
 - Designed and implemented comprehensive data preprocessing pipelines for the **Titanic** and **Healthcare** datasets, transforming raw data into machine-learning-ready formats.  
-  - **Titanic Data Cleaning Pipeline**:  
-    - Built a 6-script Python pipeline (`diagnose.py`, `clean.py`, `EDA.py`, `process_data.py`, `encode_data.py`, `scale_data.py`) to clean, explore, and preprocess the Titanic dataset (891 rows, 12 columns).  
-    - Handled missing values (`Age`, `Embarked`, `Cabin`), standardized categorical data, and scaled numeric features using `StandardScaler`.  
-    - Generated EDA visualizations (histograms, bar plots, correlation heatmaps) to uncover survival patterns.  
+  - **Titanic Data Cleaning Pipeline**:    
     - **Output**: `train_scaled.csv` with encoded categorical variables and standardized numeric features, ready for modeling.  
     - **GitHub**: [Titanic Data Cleaning](https://github.com/r-elopre/titanic-data-cleaning)
 
     ### 🔹 Models Trained on Cleaned Data:
     1. [Logistic Regression Model](https://github.com/r-elopre/Titanic-Logistic-Regression-Model) — baseline binary classification to predict survival.
+     2. [Random Forest Classifier Model](https://github.com/r-elopre/titanic_model_randomforest) — ensemble model to predict survival, leveraging multiple decision trees for improved accuracy and robustness.  
+
     &nbsp;  
     &nbsp;  
-  - **Healthcare Data Cleaning Pipeline**:  
-    - Preprocessed a dataset (1000 rows, 10 columns) with 159–384 missing values per column.  
-    - Handled missing values (`Age` with median, `Condition` with "Unknown", `Cholesterol` with mean), standardized date formats, and split `Blood Pressure` into Systolic/Diastolic.  
-    - Performed EDA to identify age clusters (25, 35, 60, 70) and cholesterol distributions (160–220 mg/dL).  
-    - Applied one-hot encoding to categorical features (`Gender`, `Medication`) and scaled numeric features for ML compatibility.  
+  - **Healthcare Data Cleaning Pipeline**:   
     - **Output**: `healthcare_scaled.csv`, fully numeric and scaled for modeling.  
     - **GitHub**: [Healthcare Data Cleaning](https://github.com/r-elopre/healthcare-data-cleaning)  
 
 ### Machine Learning Engineer  
 **Self-Employed / Personal Projects** — *April 2022 – Present*  
-- Developed and evaluated a **Titanic Logistic Regression Model** to predict passenger survival using the preprocessed `train_scaled.csv` dataset (891 rows, 18 columns).  
-  - Implemented a Python script (`titanic_model_logreg.py`) to load data, perform train-test split (80% train, 20% test), train a logistic regression model, and evaluate performance.  
-  - Achieved ~82% accuracy, with precision (83% for Not Survived, 80% for Survived), recall (87% for Not Survived, 76% for Survived), and F1-scores (85% for Not Survived, 78% for Survived).  
-  - Generated a confusion matrix heatmap (`confusion_matrix.png`) using Seaborn to visualize true/false positives and negatives.  
-  - Saved test predictions with `PassengerId` to `titanic_logreg_predictions.csv` for further analysis.  
+- Developed and evaluated a **Titanic Logistic Regression Model** to predict passenger survival using the preprocessed `train_scaled.
   - **GitHub**: [Titanic Logistic Regression Model](https://github.com/r-elopre/Titanic-Logistic-Regression-Model)  
-
+  
+- Developed and evaluated a **Titanic Random Forest Classifier** to predict passenger survival using the preprocessed `train_scaled.csv` 
+  - **GitHub**: [Titanic Random Forest Classifier](https://github.com/r-elopre/titanic_model_randomforest)  
 ---
 
 ## Skills  
@@ -81,7 +74,7 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
 
 ## Education  
 **Self-Taught Developer & Data Scientist & Computer Science Student**  
-- Completed online courses in Python, Django, JavaScript, and Data Science (Coursera, Udemy).  
+- Completed online courses in Python, Django, JavaScript, and Data Science (Udemy).  
 - Built real-world projects to apply skills in web development, data preprocessing, and machine learning.  
 
 ---
@@ -92,7 +85,9 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
 - **Titanic Data Cleaning Pipeline** ([GitHub](https://github.com/r-elopre/titanic-data-cleaning)):  
   A modular Python pipeline for cleaning and preprocessing the Titanic dataset, producing a machine-learning-ready dataset with visualizations.  
 - **Titanic Logistic Regression Model** ([GitHub](https://github.com/r-elopre/Titanic-Logistic-Regression-Model)):  
-  A project that trains a logistic regression model to predict passenger survival on the Titanic using the preprocessed `train_scaled.csv` dataset. Achieved ~82% accuracy, with evaluation metrics and a confusion matrix heatmap saved as `confusion_matrix.png`. Predictions were saved to `titanic_logreg_predictions.csv`.  
+  A project that trains a logistic regression model to predict passenger survival on the Titanic using the preprocessed `train_scaled.csv` dataset. Achieved ~82% accuracy, with evaluation metrics and a confusion matrix heatmap saved as `confusion_matrix.png`. Predictions were saved to `titanic_logreg_predictions.csv`.
+- **Titanic Random Forest Classifier** ([GitHub](https://github.com/r-elopre/titanic_model_randomforest)):  
+  A machine learning project that trains a Random Forest Classifier to predict passenger survival on the Titanic using the preprocessed `train_scaled.csv` dataset, utilizing an ensemble of decision trees for enhanced predictive performance.  
 - **Healthcare Data Cleaning Pipeline** ([GitHub](https://github.com/r-elopre/healthcare-data-cleaning)):  
   A robust pipeline for cleaning and preprocessing healthcare data, addressing missing values, inconsistencies, and preparing data for ML.  
 
