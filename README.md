@@ -44,8 +44,6 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
     ### 🔹 Models Trained on Cleaned Data:
     1. [Logistic Regression Model](https://github.com/r-elopre/Titanic-Logistic-Regression-Model) — baseline binary classification to predict survival.
      2. [Random Forest Classifier Model](https://github.com/r-elopre/titanic_model_randomforest) — ensemble model to predict survival, leveraging multiple decision trees for improved accuracy and robustness.  
-
-    &nbsp;  
     &nbsp;  
   - **Healthcare Data Cleaning Pipeline**:   
     - **Output**: `healthcare_scaled.csv`, fully numeric and scaled for modeling.  
