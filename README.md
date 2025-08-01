@@ -24,6 +24,7 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
       📹 [Watch Test](https://youtu.be/GBs8rEWTVQ8?si=w12NQJJ4kikWT2CO)  
   - **Performance Tests Passed**:  
     - ✅ **Client-Side Media Optimization**: Reduced image file sizes by up to 80% using Compressor.js, enhancing upload speed and performance.  
+      📹 [Watch Test](https://youtu.be/i76l_xrsrJQ?si=hcjQ9Au6A0vni_CT)  
     - ✅ **Caching Strategy**: Utilized Django’s caching framework for posts, comments, and user data to reduce load times.  
       📹 [Watch Test](https://youtu.be/DV2VaTyp-XY?si=Yh0rFk50WXSFENsR)  
     - ✅ **Efficient Database Queries**: Eliminated N+1 issues with batch fetching, implemented offset-based pagination, and used selective field fetching to optimize performance.  
