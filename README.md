@@ -51,16 +51,20 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
   - **GitHub**: [Titanic Logistic Regression Model](https://github.com/r-elopre/Titanic-Logistic-Regression-Model)  
   
 - Developed and evaluated a **Titanic Random Forest Classifier** to predict passenger survival using the preprocessed `train_scaled.csv` 
-  - **GitHub**: [Titanic Random Forest Classifier](https://github.com/r-elopre/titanic_model_randomforest)  
+  - **GitHub**: [Titanic Random Forest Classifier](https://github.com/r-elopre/titanic_model_randomforest) 
+
+- Developed and evaluated a **Titanic XGBoost Classifier** to predict passenger survival using the preprocessed `train_scaled.csv`. Trained an XGBoost model with optimized hyperparameters, achieving ~82% accuracy.
+  - **GitHub**: [Titanic XGBoost Classifier](https://github.com/r-elopre/titanic_model_xgboost)  
+ 
 ---
 
 ## Skills  
 - **Programming**: Python, JavaScript, HTML, CSS  
-- **Frameworks & Libraries**: Django, Pandas, Scikit-learn, Seaborn, Matplotlib, Compressor.js  
+- **Frameworks & Libraries**: Django, Pandas, Scikit-learn, Seaborn, Matplotlib, Compressor.js, XGBoost  
 - **Tools**: Git, GitHub, Jupyter Notebook, VS Code  
 - **Web Development**: Full-stack development, RESTful APIs, real-time messaging, responsive design  
 - **Data Science**: Data cleaning, preprocessing, EDA, feature engineering, categorical encoding, feature scaling  
-- **Machine Learning**: Logistic regression, model training, evaluation metrics, confusion matrix visualization  
+- **Machine Learning**: Logistic regression, Random Forest, XGBoost, model training, evaluation metrics, confusion matrix visualization  
 - **Security**: XSS prevention, CSRF protection, secure authentication, session management  
 - **Performance Optimization**: Caching, efficient database queries, non-blocking JavaScript, media compression  
 
@@ -81,7 +85,9 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
 - **Titanic Logistic Regression Model** ([GitHub](https://github.com/r-elopre/Titanic-Logistic-Regression-Model)):  
   A project that trains a logistic regression model to predict passenger survival on the Titanic using the preprocessed `train_scaled.csv` dataset. Achieved ~82% accuracy, with evaluation metrics and a confusion matrix heatmap saved as `confusion_matrix.png`. Predictions were saved to `titanic_logreg_predictions.csv`.
 - **Titanic Random Forest Classifier** ([GitHub](https://github.com/r-elopre/titanic_model_randomforest)):  
-  A machine learning project that trains a Random Forest Classifier to predict passenger survival on the Titanic using the preprocessed `train_scaled.csv` dataset, utilizing an ensemble of decision trees for enhanced predictive performance.  
+  A machine learning project that trains a Random Forest Classifier to predict passenger survival on the Titanic using the preprocessed `train_scaled.csv` dataset, utilizing an ensemble of decision trees for enhanced predictive performance.
+- **Titanic XGBoost Classifier** ([GitHub](https://github.com/r-elopre/titanic_model_xgboost)):  
+  A machine learning project that trains an XGBoost classifier to predict passenger survival on the Titanic using the preprocessed `train_scaled.csv` dataset. Features model training, evaluation with a classification report (~82% accuracy), confusion matrix visualization, and predictions saved to `predictions.csv`.   
 - **Healthcare Data Cleaning Pipeline** ([GitHub](https://github.com/r-elopre/healthcare-data-cleaning)):  
   A robust pipeline for cleaning and preprocessing healthcare data, addressing missing values, inconsistencies, and preparing data for ML.  
 
