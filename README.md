@@ -53,7 +53,7 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
 - Developed and evaluated a **Titanic Random Forest Classifier** to predict passenger survival using the preprocessed `train_scaled.csv` 
   - **GitHub**: [Titanic Random Forest Classifier](https://github.com/r-elopre/titanic_model_randomforest) 
 
-- Developed and evaluated a **Titanic XGBoost Classifier** to predict passenger survival using the preprocessed `train_scaled.csv`. Trained an XGBoost model with optimized hyperparameters, achieving ~82% accuracy.
+- Developed and evaluated a **Titanic XGBoost Classifier** to predict passenger survival using the preprocessed `train_scaled.csv`. Features an untuned model (~82% accuracy) and a tuned model using GridSearchCV (0.8324 accuracy) with optimized hyperparameters (`learning_rate: 0.1`, `max_depth: 3`, `n_estimators: 100`).  
   - **GitHub**: [Titanic XGBoost Classifier](https://github.com/r-elopre/titanic_model_xgboost)  
  
 ---
@@ -87,7 +87,9 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
 - **Titanic Random Forest Classifier** ([GitHub](https://github.com/r-elopre/titanic_model_randomforest)):  
   A machine learning project that trains a Random Forest Classifier to predict passenger survival on the Titanic using the preprocessed `train_scaled.csv` dataset, utilizing an ensemble of decision trees for enhanced predictive performance.
 - **Titanic XGBoost Classifier** ([GitHub](https://github.com/r-elopre/titanic_model_xgboost)):  
-  A machine learning project that trains an XGBoost classifier to predict passenger survival on the Titanic using the preprocessed `train_scaled.csv` dataset. Features model training, evaluation with a classification report (~82% accuracy), confusion matrix visualization, and predictions saved to `predictions.csv`.   
+  A machine learning project that trains an XGBoost classifier to predict passenger survival on the Titanic using the preprocessed `train_scaled.csv` dataset. Features an untuned model (~82% accuracy) and a tuned model using GridSearchCV (0.8324 accuracy) with optimized hyperparameters (`learning_rate: 0.1`, `max_depth: 3`, `n_estimators: 100`). Includes evaluation with classification reports, confusion matrix visualizations (`confusion_matrix_xgb_tuned.png`), and predictions saved to `predictions.csv` (untuned) and `titanic_xgb_tuned_predictions.csv` (tuned).  
+- **Titanic Survival Prediction with Feature Engineering and Model Stacking** ([GitHub](https://github.com/r-elopre/Titanic-Smart-Features-Model-Blending)):  
+  A machine learning project that enhances Titanic survival prediction through feature engineering (`FamilySize`, `IsAlone`, `FarePerPerson`) and a stacking ensemble of Logistic Regression, Random Forest, and XGBoost. Achieved 0.8324 accuracy, outperforming individual models (Logistic Regression: 0.8212, Random Forest: 0.8101, XGBoost: 0.8268). Outputs include an engineered dataset (`train_engineered.csv`), ensemble predictions (`ensemble_predictions.csv`), and a confusion matrix visualization (`confusion_matrix_ensemble.png`).    
 - **Healthcare Data Cleaning Pipeline** ([GitHub](https://github.com/r-elopre/healthcare-data-cleaning)):  
   A robust pipeline for cleaning and preprocessing healthcare data, addressing missing values, inconsistencies, and preparing data for ML.  
 
