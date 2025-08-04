@@ -55,8 +55,8 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
 
 - Developed and evaluated a **Titanic XGBoost Classifier** to predict passenger survival using the preprocessed `train_scaled.csv`. Features an untuned model (~82% accuracy) and a tuned model using GridSearchCV (0.8324 accuracy) with optimized hyperparameters (`learning_rate: 0.1`, `max_depth: 3`, `n_estimators: 100`).  
   - **GitHub**: [Titanic XGBoost Classifier](https://github.com/r-elopre/titanic_model_xgboost)  
-- Developed and evaluated a **Titanic Survival Prediction with Feature Engineering and Model Stacking** to predict passenger survival using the preprocessed `train_scaled.csv`. Engineered features (`FamilySize`, `IsAlone`, `FarePerPerson`) and implemented a stacking ensemble of Logistic Regression, Random Forest, and XGBoost, achieving 0.8324 accuracy, outperforming individual models.  
-  - **GitHub**: [Titanic Survival Prediction with Feature Engineering and Model Stacking](https://github.com/r-elopre/Titanic-Smart-Features-Model-Blending) 
+- Developed and evaluated a **Titanic Feature Engineering and Model Stacking** to predict passenger survival using the preprocessed `train_scaled.csv`. Engineered features (`FamilySize`, `IsAlone`, `FarePerPerson`) and implemented a stacking ensemble of Logistic Regression, Random Forest, and XGBoost, achieving 0.8324 accuracy, outperforming individual models.  
+  - **GitHub**: [Titanic Feature Engineering and Model Stacking](https://github.com/r-elopre/Titanic-Smart-Features-Model-Blending) 
 ---
 
 ## Skills  
