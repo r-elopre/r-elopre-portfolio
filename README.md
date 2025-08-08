@@ -6,7 +6,16 @@ Rodriguez, Rizal
 ---
 
 ## Summary  
-Dynamic and results-driven Full-Stack Developer and Data Scientist with extensive experience in building secure, high-performance web applications and robust data preprocessing pipelines. Proficient in Python, Django, JavaScript, and data science tools like Pandas and Scikit-learn. Demonstrated expertise in developing a full-stack social media platform and preprocessing complex datasets like Titanic and Healthcare for machine learning. Passionate about delivering optimized, scalable solutions with a focus on security, performance, and user experience.
+**Versatile and results-oriented professional** with strong exposure to **Full-Stack Development** and **AI Engineering**.
+
+All my projects are **meticulously documented** to cater to different types of viewers:
+
+- **For those who want in-depth technical details** — each repository contains a comprehensive **README** outlining architecture, methodology, and implementation steps.
+
+- **For those who prefer a high-level, visually engaging overview** — I’ve prepared **professional PowerPoint presentations**, featured at the top of each README, summarizing the project’s purpose, workflow, and results in a concise, compelling format.
+
+Whether you’re here for the **deep technical dive** or a **quick, insightful snapshot**, my project documentation is designed to deliver both clarity and impact.
+
 
 ---
 
@@ -28,7 +37,7 @@ My roadmap or skill about AI Engineering is shown in the link below:
   - **Healthcare Data Cleaning Pipeline**:   
     - **Output**: `healthcare_scaled.csv`, fully numeric and scaled for modeling.  
     - **GitHub**: [Healthcare Data Cleaning](https://github.com/r-elopre/healthcare-data-cleaning) 
-     
+
 <br><br>
 
 ### Machine Learning Engineer   
