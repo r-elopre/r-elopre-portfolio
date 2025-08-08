@@ -12,14 +12,6 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
 
 ## Professional Experience  
 
-### Freelance Web Developer  
-**Self-Employed / Personal Projects** — *April 2022 – Present*  
-
-My roadmap or skill about web development is shown in the link below:  
-[Web Developer Roadmap](https://github.com/r-elopre/Web-Developer-Roadmap)
-
-<br><br>
-
 <h1 align="center">Data Scientist · Machine Learning Engineer · AI Engineer</h1>
 
 ### Data Scientist  
@@ -46,6 +38,16 @@ My roadmap or skill about web development is shown in the link below:
 - Developed and evaluated a **Titanic Feature Engineering and Model Stacking** to predict passenger survival using the preprocessed `train_scaled.csv`. Engineered features (`FamilySize`, `IsAlone`, `FarePerPerson`) and implemented a stacking ensemble of Logistic Regression, Random Forest, and XGBoost, achieving 0.8324 accuracy, outperforming individual models.  
   - **GitHub**: [Titanic Feature Engineering and Model Stacking](https://github.com/r-elopre/Titanic-Smart-Features-Model-Blending) 
 ---
+
+<br><br>
+
+### Freelance Web Developer  
+**Self-Employed / Personal Projects** — *April 2022 – Present*  
+
+My roadmap or skill about web development is shown in the link below:  
+[Web Developer Roadmap](https://github.com/r-elopre/Web-Developer-Roadmap)
+
+<br><br>
 
 ## Skills  
 - **Programming**: Python, JavaScript, HTML, CSS  
