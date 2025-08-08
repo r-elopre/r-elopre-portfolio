@@ -14,6 +14,9 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
 
 <h1 align="center">Data Scientist · Machine Learning Engineer · AI Engineer</h1>
 
+<br><br>
+<br><br>
+
 ### Data Scientist  
 **Self-Employed / Personal Projects** — *April 2022 – Present*  
 - Designed and implemented comprehensive data preprocessing pipelines for the **Titanic** and **Healthcare** datasets, transforming raw data into machine-learning-ready formats.  
