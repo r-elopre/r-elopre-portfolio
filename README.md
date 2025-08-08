@@ -19,8 +19,7 @@ My roadmap or skill about AI Engineering is shown in the link below:
 
 <br><br>
 
-### Data Scientist 
-<br><br> 
+### Data Scientist  
 - Designed and implemented comprehensive data preprocessing pipelines for the transforming raw data into machine-learning-ready formats.  
   - **Titanic Data Cleaning Pipeline**:    
     - **Output**: `train_scaled.csv` with encoded categorical variables and standardized numeric features, ready for modeling.  
@@ -28,7 +27,9 @@ My roadmap or skill about AI Engineering is shown in the link below:
     &nbsp;  
   - **Healthcare Data Cleaning Pipeline**:   
     - **Output**: `healthcare_scaled.csv`, fully numeric and scaled for modeling.  
-    - **GitHub**: [Healthcare Data Cleaning](https://github.com/r-elopre/healthcare-data-cleaning)  
+    - **GitHub**: [Healthcare Data Cleaning](https://github.com/r-elopre/healthcare-data-cleaning) 
+     
+<br><br>
 
 ### Machine Learning Engineer   
 - Developed and evaluated a **Titanic Logistic Regression Model** to predict passenger survival using the preprocessed `train_scaled.
