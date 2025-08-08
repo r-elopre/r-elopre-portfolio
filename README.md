@@ -7,7 +7,6 @@ Rodriguez, Rizal
 
 ## Summary  
 **Versatile and results-oriented professional** with strong exposure to **Full-Stack Development** and **AI Engineering**.
-
 All my projects are **meticulously documented** to cater to different types of viewers:
 
 - **For those who want in-depth technical details** — each repository contains a comprehensive **README** outlining architecture, methodology, and implementation steps.
