@@ -1,5 +1,5 @@
 # Ri M. Elopre  
-**Freelance Full-Stack Developer (Django) | Data Scientist**  
+**AI Engineer | Full-Stack Developer (Django)**  
 [GitHub](https://github.com/r-elopre) | [Email](mailto:elopreri528@gmail.com) | [Phone](tel:+639952013913) +639952013913 |
 Rodriguez, Rizal  
 
