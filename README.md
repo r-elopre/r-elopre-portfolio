@@ -14,7 +14,7 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
 
 <h1 align="center">AI Engineering</h1>
 My roadmap or skill about AI Engineering is shown in the link below:
-   
+
 [AI Engineering Roadmap](https://github.com/r-elopre/AI-Engineer-Roadmap)
 
 <br><br>
@@ -55,7 +55,7 @@ My roadmap or skill about web development is shown in the link below:
 
 <br><br>
 
-## Skills  
+## Overall Skills  
 - **Programming**: Python, JavaScript, HTML, CSS  
 - **Frameworks & Libraries**: Django, Pandas, Scikit-learn, Seaborn, Matplotlib, Compressor.js, XGBoost  
 - **Tools**: Git, GitHub, Jupyter Notebook, VS Code  
