@@ -14,25 +14,11 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
 
 ### Freelance Web Developer  
 **Self-Employed / Personal Projects** — *April 2022 – Present*  
-- Developed a **full-stack social media web application** with real-time messaging, post creation (image/video uploads), user profiles (follow/unfollow), likes, comments, and a global feed, all mobile-responsive and performance-optimized.  
-  - **Security Tests Passed**:  
-    - ✅ **Cross-Site Scripting (XSS)**: Sanitized user-generated content using a reusable `escapeHTML()` function across all interactive views, preventing stored and reflected XSS.  
-      📹 [Watch Test](https://youtu.be/jEscr0JXbuc?si=y0sEYaLsQSvYr-9K)  
-    - ✅ **Cross-Site Request Forgery (CSRF)**: Protected forms and JavaScript requests using Django’s CSRF middleware with token injection for secure POST actions.  
-      📹 [Watch Test](https://youtu.be/Jh_YLm9DIZs?si=b5Wsg9fTRG4e-ulo)  
-    - ✅ **Authentication & Session Management**: Implemented password hashing with Django’s `make_password()`, 20-minute session expiration, brute-force prevention via rate limiting, and secure cookies (Secure, HttpOnly).  
-      📹 [Watch Test](https://youtu.be/GBs8rEWTVQ8?si=w12NQJJ4kikWT2CO)  
-  - **Performance Tests Passed**:  
-    - ✅ **Client-Side Media Optimization**: Reduced image file sizes by up to 80% using Compressor.js, enhancing upload speed and performance.  
-      📹 [Watch Test](https://youtu.be/i76l_xrsrJQ?si=hcjQ9Au6A0vni_CT)  
-    - ✅ **Caching Strategy**: Utilized Django’s caching framework for posts, comments, and user data to reduce load times.  
-      📹 [Watch Test](https://youtu.be/DV2VaTyp-XY?si=Yh0rFk50WXSFENsR)  
-    - ✅ **Efficient Database Queries**: Eliminated N+1 issues with batch fetching, implemented offset-based pagination, and used selective field fetching to optimize performance.  
-      📹 [Watch Test](https://youtu.be/-luhtWYskP8?si=HOieIin6wZVyuEQ4)  
-    - ✅ **Non-Blocking JavaScript Architecture**: Employed modular, deferred scripts (`chat.js`, `post.js`), lazy execution, and efficient polling for minimal resource usage.  
-      📹 [Watch Test](https://youtu.be/ZsFa0-ix1vs?si=C-a4Z2dvTMSu3Av-)  
-    - **GitHub**: [chatGF](https://github.com/r-elopre/chatGF)  
-    - **Additional Details**: [Social Media Explanation](https://docs.google.com/document/d/1k1aAXfTE2I7JELJDP0ywRUAfVlsU6Guk2VFa7cES3gY/edit?tab=t.0)
+
+My roadmap or skill about web development is shown in the link below:  
+[Web Developer Roadmap](https://github.com/r-elopre/Web-Developer-Roadmap)
+
+<h1 align="center">Data Scientist · Machine Learning Engineer · AI Engineer</h1>
 
 ### Data Scientist  
 **Self-Employed / Personal Projects** — *April 2022 – Present*  
