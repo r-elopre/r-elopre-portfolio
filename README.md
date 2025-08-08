@@ -20,8 +20,7 @@ My roadmap or skill about AI Engineering is shown in the link below:
 <br><br>
 
 ### Data Scientist  
-**Self-Employed / Personal Projects** — *April 2022 – Present*  
-- Designed and implemented comprehensive data preprocessing pipelines for the **Titanic** and **Healthcare** datasets, transforming raw data into machine-learning-ready formats.  
+- Designed and implemented comprehensive data preprocessing pipelines for the transforming raw data into machine-learning-ready formats.  
   - **Titanic Data Cleaning Pipeline**:    
     - **Output**: `train_scaled.csv` with encoded categorical variables and standardized numeric features, ready for modeling.  
     - **GitHub**: [Titanic Data Cleaning](https://github.com/r-elopre/titanic-data-cleaning) 
@@ -30,8 +29,7 @@ My roadmap or skill about AI Engineering is shown in the link below:
     - **Output**: `healthcare_scaled.csv`, fully numeric and scaled for modeling.  
     - **GitHub**: [Healthcare Data Cleaning](https://github.com/r-elopre/healthcare-data-cleaning)  
 
-### Machine Learning Engineer  
-**Self-Employed / Personal Projects** — *April 2022 – Present*  
+### Machine Learning Engineer   
 - Developed and evaluated a **Titanic Logistic Regression Model** to predict passenger survival using the preprocessed `train_scaled.
   - **GitHub**: [Titanic Logistic Regression Model](https://github.com/r-elopre/Titanic-Logistic-Regression-Model)  
   
@@ -48,8 +46,6 @@ My roadmap or skill about AI Engineering is shown in the link below:
 <h1 align="center">Web Developer</h1>
 
 ### Freelance Web Developer  
-**Self-Employed / Personal Projects** — *April 2022 – Present*  
-
 My roadmap or skill about web development is shown in the link below:  
 [Web Developer Roadmap](https://github.com/r-elopre/Web-Developer-Roadmap)
 
