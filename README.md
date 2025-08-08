@@ -18,6 +18,8 @@ Dynamic and results-driven Full-Stack Developer and Data Scientist with extensiv
 My roadmap or skill about web development is shown in the link below:  
 [Web Developer Roadmap](https://github.com/r-elopre/Web-Developer-Roadmap)
 
+<br><br>
+
 <h1 align="center">Data Scientist · Machine Learning Engineer · AI Engineer</h1>
 
 ### Data Scientist  
